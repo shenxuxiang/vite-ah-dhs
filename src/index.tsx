@@ -3,6 +3,9 @@ import { HashRouter } from "react-router-dom";
 import { ConfigProvider } from "antd";
 import zhCN from "antd/es/locale/zh_CN";
 import Router from "@/routers";
+
+
+
 import "./index.less";
 // import '@/mock/mock';
 
