@@ -6,19 +6,9 @@ import Router from "@/routers";
 import "./index.less";
 // import '@/mock/mock';
 
-
-
-
-
 const root = ReactDOM.createRoot(
   document.getElementById("root") as HTMLElement
 );
-
-
-
-
-
-
 
 root.render(
   <ConfigProvider locale={zhCN}>
