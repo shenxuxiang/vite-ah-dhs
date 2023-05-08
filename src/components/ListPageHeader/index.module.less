@@ -1,0 +1,27 @@
+.header {
+  margin-bottom: 24px;
+  padding: 24px 24px 0;
+  background: #fff;
+  border-radius: 2px;
+}
+.row_start {
+  margin: 0 -8px;
+  & :global(.ant-form-item-label) {
+    min-width: 80px;
+  }
+  & > :global(.ant-col) {
+    padding: 4px 8px;
+  }
+}
+.button_groups {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-start;
+  margin-bottom: 24px;
+}
+.icon {
+  transition: transform 0.3s ease !important;
+  &.expand {
+    transform: rotate(180deg);
+  }
+}

@@ -1,0 +1,86 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3938143 */
+  src: url("iconfont.woff2?t=1679538541897") format("woff2"),
+    url("iconfont.woff?t=1679538541897") format("woff"),
+    url("iconfont.ttf?t=1679538541897") format("truetype");
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-videofill:before {
+  content: "\e7c7";
+}
+
+.icon-image-fill:before {
+  content: "\e860";
+}
+
+.icon-audio-fill:before {
+  content: "\e897";
+}
+
+.icon-zhishu:before {
+  content: "\e613";
+}
+
+.icon-pie:before {
+  content: "\e668";
+}
+
+.icon-menu:before {
+  content: "\e677";
+}
+
+.icon-monitor:before {
+  content: "\e63a";
+}
+
+.icon-calendar:before {
+  content: "\e619";
+}
+
+.icon-map:before {
+  content: "\e715";
+}
+
+.icon-travel:before {
+  content: "\e639";
+}
+
+.icon-qita:before {
+  content: "\e62b";
+}
+
+.icon-ziyuan:before {
+  content: "\e62a";
+}
+
+.icon-user:before {
+  content: "\e7ae";
+}
+
+.icon-role:before {
+  content: "\e606";
+}
+
+.icon-statistics:before {
+  content: "\e806";
+}
+
+.icon-manage:before {
+  content: "\e70b";
+}
+
+.icon-touzi:before {
+  content: "\e66b";
+}
+
+.icon-dashboard:before {
+  content: "\e652";
+}
